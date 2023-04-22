@@ -30,7 +30,7 @@ pip install -y pyTelegramBotAPI
 
 1. Убираем расширение algoritmika
    
-<img src="images/1.png" width="300">
+<img src="images/1.png" width="500">
 
 2. Устанавливаем **brew**
 ```sh
