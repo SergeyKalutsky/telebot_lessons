@@ -2,7 +2,7 @@
 ## Windows
 Запускаем **powershell** с правами администратора:
 
-<img src="gifs/1.gif" width="300">
+<img src="gifs/1.gif" width="500">
 
 1. Устанавливаем chocolotey
 ```sh

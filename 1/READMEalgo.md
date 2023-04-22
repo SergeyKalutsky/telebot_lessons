@@ -4,11 +4,11 @@
 
 1. Убираем расширение algoritmika
    
-<img src="images/1.png" width="300">
+<img src="images/1.png" width="500">
 
 Запускаем **powershell** с правами администратора:
 
-<img src="gifs/1.gif" width="300">
+<img src="gifs/1.gif" width="500">
 
 
 1. Устанавливаем chocolotey
