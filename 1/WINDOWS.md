@@ -18,5 +18,9 @@ choco install -y python
 ```
 4. Устанавливаем telebot
 ```sh
-pip install -y pyTelegramBotAPI
+pip install pyTelegramBotAPI --user
+```
+5. Устанавливаем requests
+```sh
+pip install requests --user
 ```
